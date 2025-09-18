@@ -34,7 +34,7 @@ Wireshark, tshark, tcpdump, nmap (for simulation), Python (analysis snippets), V
 
 ## Files in this repo
 
-- `capture.pcap` — PCAP file you captured / processed. 
+- `capture.pcap` — PCAP file captured / processed. 
 - `README.md` — this file.  
 - `setup.md` — step-by-step setup & analysis commands (copy/pasteable).  
 - `demo/` — demonstration video
